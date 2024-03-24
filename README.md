@@ -19,6 +19,10 @@ https://github.com/epfl-exts/amld24-applications-ML-workshop/tree/main
 https://github.com/Digital-Dermatology/data-cleaning-hands-on
 
 
+https://github.com/mcallara/probabilistic-forecasting-for-planning-101/
+
+
+
 
 
 
