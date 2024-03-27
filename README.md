@@ -36,21 +36,11 @@ The goal is to develop an applicable policy for the business case defined by the
 The idea is to touch the job position of a Data scientist in a Pharma company.
 
 Part 2: Practical_Application
-From Stephanie_Brueckner
+From Stephanie Brueckner
 
 
 Part 3: Evaluating Probabilistic Forecasts
 From Nicolas Riesterer
-
-
-
-
-
-
-# Workshops I did not attend
-##
-
-
 
 
 
