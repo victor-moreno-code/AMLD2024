@@ -4,19 +4,16 @@
 In this repo, I regroup the workshops and my notes on machine learning and AI I have attended during the conference at EPFL.
 Feel free to add stuff I forgot or correct mistakes.
 
-# Conference Topic
-## Join world leaders in AI and machine learning
+# Conference Topic: World leaders in AI and Machine Learning
 This global platform draws experts and participants from over 40 countries across industry, academia, and government. Held over four days with keynote speakers, topical tracks, workshops and an exhibition, the event provides the opportunity to hear the latest research and insights in machine learning and to exchange knowledge with experts in the field. Join us at the SwissTech Convention Center on the EPFL campus and be part of the AI and machine learning revolution.
 
-
-<<<<<<< HEAD
-
-# Multimodal Machine learning for human behaviour understanding
+# Workshops and talks I attended
+## Multimodal Machine learning for human behaviour understanding
 
 Text feature extraction
 
 
-# Probabilistic Forecasting 101
+## Probabilistic Forecasting 101
 
 Part 1: Business_Forecasting_with_Point_and_Probabilistic_Forecasts
 From Matias_Callara
@@ -50,46 +47,43 @@ From Nicolas Riesterer
 
 
 
+# Workshops I did not attend
+##
 
 
 
 
 
-
-	
+# Ideas and thoughts
 One question still remains:
 How to predict the unpredictable ?
-=======
-# Repos links
-https://github.com/Synerise/predicting-user-behavior-workshop
-
-https://github.com/Laxminarayen/AMLD-24
-
-https://github.com/epfl-exts/amld24-applications-ML-workshop/tree/main
-
-https://github.com/Digital-Dermatology/data-cleaning-hands-on
+Is there an interest in predicting the unpredictable ?
 
 
-https://github.com/mcallara/probabilistic-forecasting-for-planning-101/
-https://castle.princeton.edu/wp-content/uploads/2019/10/Powell-Reinforcement-Learning-and-Stochastic-Optimization.pdf
 
-RL
-https://github.com/MasterScrat/droneRL-workshop
+# Repositories links from the workshops
+* Attended workshops
+	* [Item 1](https://github.com/Synerise/predicting-user-behavior-workshop)
+	* [Item 2](https://github.com/Laxminarayen/AMLD-24)
+	* [Item 3](https://github.com/epfl-exts/amld24-applications-ML-workshop/tree/main)
+	* [ite](https://github.com/Digital-Dermatology/data-cleaning-hands-on)
+	* [it](https://github.com/mcallara/probabilistic-forecasting-for-planning-101/)
+* Not attended workshops
+	* [it](https://github.com/MasterScrat/droneRL-workshop)
+	* [it](https://github.com/alexclabaguet03/AMLD_2024_DRL_for_Satellite_Constellation_Planning)
+	* [Voice Assistant Surveying](https://github.com/matthieusaussaye/AMLD)
+	* [GenAI for Architects and engineers](https://gitlab.renkulab.io/ai-augmented-design/aixd)
 
-https://github.com/alexclabaguet03/AMLD_2024_DRL_for_Satellite_Constellation_Planning
 
-Voice Assistant Surveying
-https://github.com/matthieusaussaye/AMLD
-
-GenAI for Architects and engineers
-https://gitlab.renkulab.io/ai-augmented-design/aixd
+# Useful links and Biblio
+* [Book on Reinforcement learning and Stochastic Optimization](https://castle.princeton.edu/wp-content/uploads/2019/10/Powell-Reinforcement-Learning-and-Stochastic-Optimization.pdf)
 
 
->>>>>>> aa284cbb4ebd4a2d1c58b0ec4f0c1dd741cb6cd2
+
 
 
 
 
 
 Stay hungry.
-Victor.
+VM.
